@@ -1,0 +1,10 @@
+debug/auto.o
+debug/camion.o
+debug/estudiante.o
+debug/estudiante_licenciatura.o
+debug/estudiante_maestria.o
+debug/flota.o
+debug/main.o
+debug/cframe.o
+debug/vehiculo.o
+debug/moc_cframe.o

@@ -1,0 +1,10 @@
+release/auto.o
+release/camion.o
+release/estudiante.o
+release/estudiante_licenciatura.o
+release/estudiante_maestria.o
+release/flota.o
+release/main.o
+release/cframe.o
+release/vehiculo.o
+release/moc_cframe.o
